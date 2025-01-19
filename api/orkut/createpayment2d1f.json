@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "creator": "Alicha Devv",
+  "result": {
+    "transactionId": "QR-DQETYIE2",
+    "amount": "${amount}",
+    "expirationTime": "2025-01-19T09:52:39.489Z",
+    "qrImageUrl": "https://cdn.elxyz.me/file/hAgTZfZkZo.png"
+  }
+}

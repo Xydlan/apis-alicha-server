@@ -1,0 +1,2218 @@
+[
+  {
+    "kode": "TGM2",
+    "keterangan": "2GB 60 Hari+ 2GB Ytb Malam 30 Hari",
+    "produk": "Tri Get More Bulanan",
+    "kategori": "KUOTA TRI",
+    "harga": "19520",
+    "status": "1"
+  },
+  {
+    "kode": "TGM3",
+    "keterangan": "4GB 60 Hari + 4GB Ytb Malam 30 Hari",
+    "produk": "Tri Get More Bulanan",
+    "kategori": "KUOTA TRI",
+    "harga": "31000",
+    "status": "1"
+  },
+  {
+    "kode": "TGM5",
+    "keterangan": "5GB 90 Hari + 5GB Ytb Malam 30 Hari",
+    "produk": "Tri Get More Bulanan",
+    "kategori": "KUOTA TRI",
+    "harga": "36350",
+    "status": "1"
+  },
+  {
+    "kode": "TDV1",
+    "keterangan": "Vcr 1GB + 1GB 4G 30 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "22650",
+    "status": "1"
+  },
+  {
+    "kode": "TDV2",
+    "keterangan": "Vcr 2GB + 3GB 4G 30 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "45200",
+    "status": "0"
+  },
+  {
+    "kode": "TDV4",
+    "keterangan": "Vcr 4GB + 8GB 4G 15 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "72250",
+    "status": "0"
+  },
+  {
+    "kode": "TDV5",
+    "keterangan": "Vcr 5GB + 10GB 4G 15 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "72750",
+    "status": "1"
+  },
+  {
+    "kode": "TDV8",
+    "keterangan": "Vcr 8GB + 16GB 4G 15 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "103300",
+    "status": "1"
+  },
+  {
+    "kode": "TDV10",
+    "keterangan": "Vcr 10GB + 20GB 4G 15 Hari",
+    "produk": "Tri Kuota Voucher",
+    "kategori": "KUOTA TRI",
+    "harga": "130300",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHWE5",
+    "keterangan": "Vcr 3GB All + 1GB Bonus 7 Hari",
+    "produk": "Tri Voucher Mingguan",
+    "kategori": "KUOTA TRI",
+    "harga": "16140",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHWE8",
+    "keterangan": "Vcr 5GB All + 1,5GB Bonus 7 Hari",
+    "produk": "Tri Voucher Mingguan",
+    "kategori": "KUOTA TRI",
+    "harga": "20630",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHTN9",
+    "keterangan": "Vcr 9GB All + 4GB Bonus 10 Hari",
+    "produk": "Tri Voucher Mingguan",
+    "kategori": "KUOTA TRI",
+    "harga": "30850",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHWE12",
+    "keterangan": "Vcr 9GB All + 3GB Bonus 7 Hari",
+    "produk": "Tri Voucher Mingguan",
+    "kategori": "KUOTA TRI",
+    "harga": "22150",
+    "status": "1"
+  },
+  {
+    "kode": "TDC1",
+    "keterangan": "2GB All +Telp All Opt 20 Menit 30 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "34400",
+    "status": "0"
+  },
+  {
+    "kode": "TDC2",
+    "keterangan": "5GB All + 4GB Malam + Telp All Opt 10 Mnt 7 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "34400",
+    "status": "0"
+  },
+  {
+    "kode": "TDC5",
+    "keterangan": "3GB All +30 Menit Telp All Opt 30 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "44200",
+    "status": "0"
+  },
+  {
+    "kode": "TDC20",
+    "keterangan": "Combo 10GB + 10GB Youtube) 30 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "68700",
+    "status": "0"
+  },
+  {
+    "kode": "TDV1500MB",
+    "keterangan": "500MB + 1GB Yotube 3 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "10000",
+    "status": "0"
+  },
+  {
+    "kode": "TDV5GB7H",
+    "keterangan": "2,5GB  + 2,5GB Malam 7 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "20100",
+    "status": "1"
+  },
+  {
+    "kode": "TTDG2",
+    "keterangan": "2GB + 100 SMS Telelpon + Unlimited Maps 30 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "27600",
+    "status": "1"
+  },
+  {
+    "kode": "TTDG6",
+    "keterangan": "6GB + 200 SMS Telelpon + Unlimited Maps 30 Hari",
+    "produk": "Tri Data Combo",
+    "kategori": "KUOTA TRI",
+    "harga": "42600",
+    "status": "1"
+  },
+  {
+    "kode": "TMD1",
+    "keterangan": "1GB All + 1,5GB Malam 1 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "5300",
+    "status": "1"
+  },
+  {
+    "kode": "TMD0",
+    "keterangan": "750MB All jaringan + 2GB 4G 7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "16154",
+    "status": "1"
+  },
+  {
+    "kode": "TMD4",
+    "keterangan": "1,75GB All + 2GB 4G 7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "24650",
+    "status": "1"
+  },
+  {
+    "kode": "TDM300",
+    "keterangan": "300MB Mengikuti Masa Aktif Kartu",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "9500",
+    "status": "1"
+  },
+  {
+    "kode": "TDM80",
+    "keterangan": "80MB Mengikuti Masa Aktif Kartu",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "4795",
+    "status": "1"
+  },
+  {
+    "kode": "TMD2",
+    "keterangan": "2GB All Jaringan 14 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "24650",
+    "status": "1"
+  },
+  {
+    "kode": "TDM10",
+    "keterangan": "750 MB + 2GB 4G 3 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "12150",
+    "status": "1"
+  },
+  {
+    "kode": "TDM3",
+    "keterangan": "2,75 GB All Jaringan 3 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "12200",
+    "status": "1"
+  },
+  {
+    "kode": "TDM5",
+    "keterangan": "2.5 GB + 2.5 GB Malam 7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "20150",
+    "status": "1"
+  },
+  {
+    "kode": "TD100",
+    "keterangan": "100MB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "565",
+    "status": "1"
+  },
+  {
+    "kode": "TD200",
+    "keterangan": "200MB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "1115",
+    "status": "1"
+  },
+  {
+    "kode": "TD500",
+    "keterangan": "500MB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "2775",
+    "status": "1"
+  },
+  {
+    "kode": "TD1000",
+    "keterangan": "1GB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "5595",
+    "status": "1"
+  },
+  {
+    "kode": "TD2000",
+    "keterangan": "2GB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "11145",
+    "status": "1"
+  },
+  {
+    "kode": "TMD750",
+    "keterangan": "750MB All Jaringan 14 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "4345",
+    "status": "1"
+  },
+  {
+    "kode": "TMD1500",
+    "keterangan": "1,5GB All Jaringan 14 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "8345",
+    "status": "1"
+  },
+  {
+    "kode": "TMD2500",
+    "keterangan": "2,5GB All Jaringan 14 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "13720",
+    "status": "1"
+  },
+  {
+    "kode": "TMD4000",
+    "keterangan": "4GB All Jaringan 14 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "22150",
+    "status": "1"
+  },
+  {
+    "kode": "TMD5G",
+    "keterangan": "5GB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "27020",
+    "status": "1"
+  },
+  {
+    "kode": "TMD10G",
+    "keterangan": "10GB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "42450",
+    "status": "1"
+  },
+  {
+    "kode": "TDM15",
+    "keterangan": "Tri Data Mini 1GB  5 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "6599",
+    "status": "1"
+  },
+  {
+    "kode": "TDM155",
+    "keterangan": "Tri Data Mini 1.5GB  5 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "10050",
+    "status": "1"
+  },
+  {
+    "kode": "TDM157",
+    "keterangan": "Tri Data Mini 1.5GB  7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "9695",
+    "status": "1"
+  },
+  {
+    "kode": "TDM25",
+    "keterangan": "Tri Data Mini 2GB  5 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "10549",
+    "status": "1"
+  },
+  {
+    "kode": "TDM37",
+    "keterangan": "Tri Data Mini 3GB  7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "15475",
+    "status": "1"
+  },
+  {
+    "kode": "TDM57",
+    "keterangan": "Tri Data Mini 5GB  7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "20270",
+    "status": "1"
+  },
+  {
+    "kode": "TDM12GB7",
+    "keterangan": "Tri Data Mini 12GB 7 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "29800",
+    "status": "1"
+  },
+  {
+    "kode": "TD3000",
+    "keterangan": "3GB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "15028",
+    "status": "1"
+  },
+  {
+    "kode": "TD300",
+    "keterangan": "300MB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "1940",
+    "status": "1"
+  },
+  {
+    "kode": "TD400",
+    "keterangan": "400MB All Jaringan 30 Hari",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "2520",
+    "status": "1"
+  },
+  {
+    "kode": "TDM650",
+    "keterangan": "650MB Mengikuti Masa Aktif Kartu",
+    "produk": "Tri Data Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "18850",
+    "status": "1"
+  },
+  {
+    "kode": "TDA5",
+    "keterangan": "Mini AON 1GB All 5 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "6460",
+    "status": "1"
+  },
+  {
+    "kode": "TDA7",
+    "keterangan": "Mini AON 1,5GB All 7 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "9547",
+    "status": "1"
+  },
+  {
+    "kode": "TD12B",
+    "keterangan": "12GB All + 4GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "55846",
+    "status": "1"
+  },
+  {
+    "kode": "TD2B",
+    "keterangan": "2,5GB All + 0,5GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "16602",
+    "status": "1"
+  },
+  {
+    "kode": "TD3B",
+    "keterangan": "3,5GB All + 1GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "20979",
+    "status": "1"
+  },
+  {
+    "kode": "TD40B",
+    "keterangan": "40GB All + 12GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "104393",
+    "status": "1"
+  },
+  {
+    "kode": "TD6B",
+    "keterangan": "6GB All + 2GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "29726",
+    "status": "1"
+  },
+  {
+    "kode": "TD9B",
+    "keterangan": "9GB All + 3GB Bonus AON 365 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "43297",
+    "status": "1"
+  },
+  {
+    "kode": "TDU26",
+    "keterangan": "6GB All AON + 20GB (01-17) + Unlimited 30 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "72772",
+    "status": "1"
+  },
+  {
+    "kode": "TDU10",
+    "keterangan": "10GB All + (Unlimited Ytb + Sosial Media) 30 Hari",
+    "produk": "AON Tri Baru",
+    "kategori": "KUOTA TRI",
+    "harga": "95000",
+    "status": "0"
+  },
+  {
+    "kode": "TDL10",
+    "keterangan": "10GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "41650",
+    "status": "1"
+  },
+  {
+    "kode": "TDL15",
+    "keterangan": "15GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "55150",
+    "status": "1"
+  },
+  {
+    "kode": "TDL20",
+    "keterangan": "20GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "67650",
+    "status": "1"
+  },
+  {
+    "kode": "TDL30",
+    "keterangan": "30GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "79650",
+    "status": "1"
+  },
+  {
+    "kode": "TDL50",
+    "keterangan": "50GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "110150",
+    "status": "1"
+  },
+  {
+    "kode": "DTH10",
+    "keterangan": "Data Harian 10GB 10 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "50300",
+    "status": "1"
+  },
+  {
+    "kode": "DTH30",
+    "keterangan": "Data Harian 30GB 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "60800",
+    "status": "1"
+  },
+  {
+    "kode": "DTH60",
+    "keterangan": "Data Harian 60GB 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "94300",
+    "status": "1"
+  },
+  {
+    "kode": "TDL100",
+    "keterangan": "100GB All Jaringan 30 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "150500",
+    "status": "1"
+  },
+  {
+    "kode": "TDL75",
+    "keterangan": "75GB All Jaringan 60 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "142500",
+    "status": "1"
+  },
+  {
+    "kode": "TDL175",
+    "keterangan": "175GB All Jaringan 180 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "344500",
+    "status": "1"
+  },
+  {
+    "kode": "TDL250",
+    "keterangan": "250GB All Jaringan 365 Hari",
+    "produk": "Tri All Jaringan",
+    "kategori": "KUOTA TRI",
+    "harga": "474500",
+    "status": "1"
+  },
+  {
+    "kode": "VTM5",
+    "keterangan": "Vcr 4GB 30 Hari + Youtube 7 Hari",
+    "produk": "Tri Voucher AMI Youtube",
+    "kategori": "KUOTA TRI",
+    "harga": "40200",
+    "status": "0"
+  },
+  {
+    "kode": "TDLH24",
+    "keterangan": "4GB + 20GB 4G 24 Jam 30 Hari",
+    "produk": "Tri Data 4G LTE",
+    "kategori": "KUOTA TRI",
+    "harga": "88900",
+    "status": "1"
+  },
+  {
+    "kode": "TDLH30",
+    "keterangan": "8GB + 22GB 4G 24 Jam 30 Hari",
+    "produk": "Tri Data 4G LTE",
+    "kategori": "KUOTA TRI",
+    "harga": "99150",
+    "status": "1"
+  },
+  {
+    "kode": "TDLH8",
+    "keterangan": "8GB + 2GB 4G 24 Jam 30 Hari",
+    "produk": "Tri Data 4G LTE",
+    "kategori": "KUOTA TRI",
+    "harga": "44150",
+    "status": "1"
+  },
+  {
+    "kode": "TRH18",
+    "keterangan": "Tri Happy 18GB All 30 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "63265",
+    "status": "1"
+  },
+  {
+    "kode": "TRH25",
+    "keterangan": "Tri Happy 25GB All 30 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "92050",
+    "status": "1"
+  },
+  {
+    "kode": "TDHM1",
+    "keterangan": "Mini Happy 1GB 3 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "7065",
+    "status": "1"
+  },
+  {
+    "kode": "TDHM2",
+    "keterangan": "Mini Happy 3GB 3 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "10494",
+    "status": "1"
+  },
+  {
+    "kode": "TDHM3",
+    "keterangan": "Mini Happy 3,5GB 5 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "15246",
+    "status": "1"
+  },
+  {
+    "kode": "TDHM6",
+    "keterangan": "Mini Happy 6GB 5 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "20044",
+    "status": "1"
+  },
+  {
+    "kode": "TDHP5",
+    "keterangan": "Mini Happy 5GB 7 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "19570",
+    "status": "1"
+  },
+  {
+    "kode": "TH1GB10",
+    "keterangan": "1GB All Jaringan 10 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "7150",
+    "status": "1"
+  },
+  {
+    "kode": "TH1GB30",
+    "keterangan": "1GB All Jaringan 30 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "7699",
+    "status": "1"
+  },
+  {
+    "kode": "TH1GB3",
+    "keterangan": "1GB All Jaringan 3 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "6700",
+    "status": "1"
+  },
+  {
+    "kode": "TH1GB5",
+    "keterangan": "1GB All Jaringan 5 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "6900",
+    "status": "1"
+  },
+  {
+    "kode": "TH2GB10",
+    "keterangan": "2GB All Jaringan 10 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "13250",
+    "status": "1"
+  },
+  {
+    "kode": "TH2GB30",
+    "keterangan": "2GB All Jaringan 30 Hari",
+    "produk": "Tri Data Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "13750",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON15",
+    "keterangan": "Vcr 9GB All + 3GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "44700",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON20",
+    "keterangan": "Vcr 12GB All + 4GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "56750",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON10",
+    "keterangan": "Vcr 6GB All + 2GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "31000",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON4",
+    "keterangan": "Vcr 2,5GB All + 0,5GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "17400",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON50",
+    "keterangan": "Vcr 40GB All + 12GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "105900",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAON7",
+    "keterangan": "Vcr 3,5GB All + 3GB Bonus AON 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "22300",
+    "status": "1"
+  },
+  {
+    "kode": "VTRAUL26",
+    "keterangan": "Vcr 6GB All + 20GB (01-17) + Unlimited 365 Hari",
+    "produk": "Tri Voucher AON",
+    "kategori": "KUOTA TRI",
+    "harga": "78250",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL70",
+    "keterangan": "Vcr 55GB + 15GB Bonus 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "118150",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL50",
+    "keterangan": "Vcr 42GB + 13GB Bonus 30 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "73800",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL40",
+    "keterangan": "Vcr 30GB + 10GB Bonus 30 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "74650",
+    "status": "0"
+  },
+  {
+    "kode": "VTRHBL28",
+    "keterangan": "Vcr 18GB + 6GB Bonus 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "63455",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL24",
+    "keterangan": "Vcr 14GB + 4GB Bonus 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "59300",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL17",
+    "keterangan": "Vcr Happy 11GB All 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "45700",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL120",
+    "keterangan": "Vcr 100GB + 30GB Bonus 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "195770",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHBL11",
+    "keterangan": "Vcr 7GB + 2GB Bonus 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "30450",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHUL52",
+    "keterangan": "Vcr Happy 30GB + 12GB Lokal Sumatra 28 Hari",
+    "produk": "Tri Voucher Happy",
+    "kategori": "KUOTA TRI",
+    "harga": "70500",
+    "status": "1"
+  },
+  {
+    "kode": "TRG1FF",
+    "keterangan": "1GB + Unlimited Kuota Games + 12 Diamond FF 7 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "14750",
+    "status": "0"
+  },
+  {
+    "kode": "TRG1ML",
+    "keterangan": "1GB + Unlimited Kuota Games + 12 Diamond ML 7 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "14750",
+    "status": "0"
+  },
+  {
+    "kode": "TRG2FF",
+    "keterangan": "2GB + Unlimited Kuota Games + 50 Diamond FF 30 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "33750",
+    "status": "0"
+  },
+  {
+    "kode": "TRG2ML",
+    "keterangan": "2GB + Unlimited Kuota Games + 28 Diamond ML 30 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "33750",
+    "status": "0"
+  },
+  {
+    "kode": "TRG3FF",
+    "keterangan": "3GB + Unlimited Kuota Games + 140 Diamond FF 30 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "48000",
+    "status": "0"
+  },
+  {
+    "kode": "TRG3ML",
+    "keterangan": "3GB + Unlimited Kuota Games + 85 Diamond ML 30 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "48000",
+    "status": "0"
+  },
+  {
+    "kode": "TRHG3",
+    "keterangan": "Happy Play Games 3GB 3 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "11690",
+    "status": "1"
+  },
+  {
+    "kode": "TRHG6",
+    "keterangan": "Happy Play Games 6GB 7 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "24325",
+    "status": "1"
+  },
+  {
+    "kode": "TRHG9",
+    "keterangan": "Happy Play Games 9GB 28 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "43143",
+    "status": "1"
+  },
+  {
+    "kode": "TRHG25",
+    "keterangan": "Happy Play Games 25GB 28 Hari",
+    "produk": "Tri Data Games",
+    "kategori": "KUOTA TRI",
+    "harga": "71635",
+    "status": "1"
+  },
+  {
+    "kode": "TRH1M1",
+    "keterangan": "1,5GB All + 0,5GB Bonus 1 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "3529",
+    "status": "1"
+  },
+  {
+    "kode": "TRH1M7",
+    "keterangan": "1,5GB All + 0,5GB Bonus 7 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "9398",
+    "status": "1"
+  },
+  {
+    "kode": "TRH2M1",
+    "keterangan": "2,5GB All + 0,5GB Bonus 1 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "5905",
+    "status": "1"
+  },
+  {
+    "kode": "TRH3M3",
+    "keterangan": "3GB All + 1GB Bonus 3 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "10150",
+    "status": "1"
+  },
+  {
+    "kode": "TRH3M5",
+    "keterangan": "3,5GB All + 1GB Jabo 5 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "14870",
+    "status": "1"
+  },
+  {
+    "kode": "TRH5M1",
+    "keterangan": "5GB All + 1,5GB Jabo 1 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "8675",
+    "status": "1"
+  },
+  {
+    "kode": "TRH5M3",
+    "keterangan": "5GB All + 1,5GB Bonus 3 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "14464",
+    "status": "1"
+  },
+  {
+    "kode": "TRH5M7",
+    "keterangan": "5GB All + 1,5GB Bonus 7 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "19568",
+    "status": "1"
+  },
+  {
+    "kode": "TRH6M5",
+    "keterangan": "6GB All + 2GB Bonus 5 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "19360",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ100",
+    "keterangan": "100GB 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "115250",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ11",
+    "keterangan": "11GB All + 3GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "42398",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ14",
+    "keterangan": "14GB + 4GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "56621",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ18",
+    "keterangan": "18GB + 6GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "61858",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ3",
+    "keterangan": "3GB + 1GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "15128",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ30",
+    "keterangan": "30GB + 10GB Jabo 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "69503",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ42",
+    "keterangan": "42GB Nat + 100 Mnt/Hari 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "69500",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ55",
+    "keterangan": "55GB + 15GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "86328",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ7",
+    "keterangan": "7GB + 2GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "28998",
+    "status": "1"
+  },
+  {
+    "kode": "RH1GB3P",
+    "keterangan": "1GB All + 0,5GB Bonus 3 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "6875",
+    "status": "1"
+  },
+  {
+    "kode": "RH2GB5",
+    "keterangan": "2GB All + 0,5GB Bonus 5 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "10248",
+    "status": "1"
+  },
+  {
+    "kode": "RH3GB7",
+    "keterangan": "3GB All + 1GB Bonus 7 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "15210",
+    "status": "1"
+  },
+  {
+    "kode": "TRH3M2",
+    "keterangan": "3GB All + 1GB Bonus 2 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "8800",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJJB30",
+    "keterangan": "30GB + 12GB Jabo 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "70799",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJTM30",
+    "keterangan": "30GB + 12GB Jatim Bali Nusra 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "69425",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJTG30",
+    "keterangan": "30GB + 12GB Jateng-Jabar 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "70550",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ52",
+    "keterangan": "4GB All + 18GB Bonus + 30GB Youtube 30 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "74451",
+    "status": "0"
+  },
+  {
+    "kode": "TRH9M10",
+    "keterangan": " 9GB All + 3GB Bonus 10 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "29612",
+    "status": "1"
+  },
+  {
+    "kode": "TRH9M7",
+    "keterangan": "9GB All + 3GB Bonus 7 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "26200",
+    "status": "1"
+  },
+  {
+    "kode": "TRH5M5",
+    "keterangan": "5GB All + 2GB Bonus 5 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "19201",
+    "status": "1"
+  },
+  {
+    "kode": "RH8GB7",
+    "keterangan": "8GB All + 3GB Bonus 7 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "23700",
+    "status": "1"
+  },
+  {
+    "kode": "TRHJ500",
+    "keterangan": "100GB + 400GB Bonus 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "200000",
+    "status": "1"
+  },
+  {
+    "kode": "TRH8M3",
+    "keterangan": "8GB All + 2GB Bonus 3 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "18600",
+    "status": "0"
+  },
+  {
+    "kode": "TRH8M5",
+    "keterangan": "8GB All + 1GB Bonus 5 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "20200",
+    "status": "0"
+  },
+  {
+    "kode": "TRHBL130",
+    "keterangan": "130GB Nas 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "249450",
+    "status": "1"
+  },
+  {
+    "kode": "TRHBL45",
+    "keterangan": "Happy 45GB 28 Hari",
+    "produk": "Tri Data Happy New",
+    "kategori": "KUOTA TRI",
+    "harga": "101000",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHXS7",
+    "keterangan": "Vcr 5GB All + 1,5GB Bonus 1 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "10850",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHSM4",
+    "keterangan": "Vcr 3GB All + 1GB Bonus 3 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "10975",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHSM7",
+    "keterangan": "Vcr 5GB All + 1GB Bonus 3 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "15950",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHMI3",
+    "keterangan": "Vcr 2GB All + 0,5GB Bonus 5 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "10850",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHMI6",
+    "keterangan": "Vcr 3,5GB All + 1GB Bonus 5 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "15900",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHMI9",
+    "keterangan": "Vcr 6GB All + 2GB Bonus 5 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "20900",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHSM2",
+    "keterangan": "Vcr 1GB All + 0,5GB Bonus 3 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "7500",
+    "status": "1"
+  },
+  {
+    "kode": "VTRHSMS7",
+    "keterangan": "Vcr 5GB All + 1GB Sumatera 3 Hari",
+    "produk": "Tri Voucher Happy Mini",
+    "kategori": "KUOTA TRI",
+    "harga": "15450",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS3H3V",
+    "keterangan": "3GB + 10 Mnt + 10 SMS + TRIXOGO + VIU 3 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "20750",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS5H7K",
+    "keterangan": "5GB + 20 Mnt + 20 SMS + TRIXOGO + KLIKFILM 7HR",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "30250",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS5H7V",
+    "keterangan": "5GB + 20 Mnt + 20 SMS + TRIXOGO + VIU 7HR",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "29350",
+    "status": "0"
+  },
+  {
+    "kode": "TDKS8H30V",
+    "keterangan": "8,5GB + 100 Mnt +100 SMS + TRIXOGO + VIU 30 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "60150",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS5H3K",
+    "keterangan": "5GB Streaming + 20 Mnt + 20 SMS + KLIKFILM 3 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "9975",
+    "status": "0"
+  },
+  {
+    "kode": "TDKS5H3G",
+    "keterangan": "5GB Streaming + 20 Mnt + 20 SMS + GENFLIX 3 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "9975",
+    "status": "0"
+  },
+  {
+    "kode": "TDKS5H3V",
+    "keterangan": "5GB Streaming + 20 Mnt + 20 SMS + VIU 3 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "9975",
+    "status": "1"
+  },
+  {
+    "kode": "TS16H30K",
+    "keterangan": "Tri KeepON 16GB + KlikFilm 30 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "49200",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS16H30G",
+    "keterangan": "TRI KeepON 16GB + Genflix 30 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "49200",
+    "status": "1"
+  },
+  {
+    "kode": "TDKS16H30V",
+    "keterangan": "TRI KeepON 16GB + VIU 30 Hari",
+    "produk": "Tri Keep On Streaming",
+    "kategori": "KUOTA TRI",
+    "harga": "49200",
+    "status": "1"
+  },
+  {
+    "kode": "TDR10",
+    "keterangan": "10GB Arab dan Turki 20 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "260401",
+    "status": "1"
+  },
+  {
+    "kode": "TDR2",
+    "keterangan": "2GB Arab Saudi 15 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "144410",
+    "status": "1"
+  },
+  {
+    "kode": "TDR3",
+    "keterangan": "3GB Arab Saudi 45 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "251411",
+    "status": "1"
+  },
+  {
+    "kode": "TDR6",
+    "keterangan": "6GB Haji + 1GB Indonesia + 15 Mnt & 15 SMS Tri/IM3 12 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "210325",
+    "status": "1"
+  },
+  {
+    "kode": "TDR14",
+    "keterangan": "14GB Haji + 1GB Indonesia + 45 Mnt & 45 SMS Tri/IM3 15 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "293600",
+    "status": "1"
+  },
+  {
+    "kode": "TDR19",
+    "keterangan": "19GB Haji + 1GB Indonesia + 100 Mnt & 100 SMS Tri/IM3 15 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "544150",
+    "status": "1"
+  },
+  {
+    "kode": "TDR24",
+    "keterangan": "24GB Haji + 1GB Indonesia + 120 Mnt & 120 SMS Tri/IM3 15 Hari",
+    "produk": "Tri Data Roaming",
+    "kategori": "KUOTA TRI",
+    "harga": "627450",
+    "status": "1"
+  },
+  {
+    "kode": "BYRMAX",
+    "keterangan": "Bayar Paket Tri Cuan Max",
+    "produk": "Tri Cuan Max",
+    "kategori": "KUOTA TRI",
+    "harga": "300",
+    "status": "1"
+  },
+  {
+    "kode": "CEKMAX",
+    "keterangan": "Cek Harga Tri Cuan Max",
+    "produk": "Tri Cuan Max",
+    "kategori": "KUOTA TRI",
+    "harga": "0",
+    "status": "1"
+  },
+  {
+    "kode": "LISTMAX",
+    "keterangan": "Cek List Paket Tri Cuan Max",
+    "produk": "Tri Cuan Max",
+    "kategori": "KUOTA TRI",
+    "harga": "0",
+    "status": "1"
+  },
+  {
+    "kode": "VHC1G1",
+    "keterangan": "Vcr Happy 1,5GB All + 0,5GB CWJ 1 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "4300",
+    "status": "1"
+  },
+  {
+    "kode": "VHC5G1",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB CWJ 1 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "10300",
+    "status": "1"
+  },
+  {
+    "kode": "VHC1G3",
+    "keterangan": "Vcr Happy 1GB All + 0,5GB CWJ 3 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "7650",
+    "status": "1"
+  },
+  {
+    "kode": "VHC3G3",
+    "keterangan": "Vcr Happy 3GB All + 1GB CWJ 3 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "10750",
+    "status": "1"
+  },
+  {
+    "kode": "VHC2G5",
+    "keterangan": "Vcr Happy 2GB All + 0.5GB CWJ 5 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "10800",
+    "status": "1"
+  },
+  {
+    "kode": "VHC5G3",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB CWJ 3 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "15500",
+    "status": "1"
+  },
+  {
+    "kode": "VHC3G5",
+    "keterangan": "Vcr Happy 3,5GB All + 1GB CWJ 5 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "15650",
+    "status": "1"
+  },
+  {
+    "kode": "VHC3G7",
+    "keterangan": "Vcr Happy 3GB All + 1GB CWJ 7 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "15850",
+    "status": "1"
+  },
+  {
+    "kode": "VHC6G5",
+    "keterangan": "Vcr Happy 6GB All + 2GB CWJ 5 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "20200",
+    "status": "1"
+  },
+  {
+    "kode": "VHC5G7",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB CWJ 7 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "20400",
+    "status": "1"
+  },
+  {
+    "kode": "VHC9G10",
+    "keterangan": "Vcr Happy 9GB All + 3GB CWJ 10 Hari",
+    "produk": "Tri Voucher Happy Mini CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "31100",
+    "status": "1"
+  },
+  {
+    "kode": "VAC2",
+    "keterangan": "Vcr AON 2,5GB All + 0,5GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "17300",
+    "status": "1"
+  },
+  {
+    "kode": "VAC3",
+    "keterangan": "Vcr AON 3,5GB All + 1GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "21650",
+    "status": "1"
+  },
+  {
+    "kode": "VAC6",
+    "keterangan": "Vcr AON 6GB All + 2GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "30600",
+    "status": "1"
+  },
+  {
+    "kode": "VAC9",
+    "keterangan": "Vcr AON 9GB All + 3GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "44290",
+    "status": "1"
+  },
+  {
+    "kode": "VAC12",
+    "keterangan": "Vcr AON 12GB All + 4GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "56965",
+    "status": "1"
+  },
+  {
+    "kode": "VAC40",
+    "keterangan": "Vcr AON 40GB All + 12GB CWJ 365 Hari",
+    "produk": "Tri Voucher AON CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "106250",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ1G3",
+    "keterangan": "Vcr Happy 1GB All + 0,5GB Jabodetabek 3 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "7700",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ3G3",
+    "keterangan": "Vcr Happy 3GB All + 1GB Jabodetabek 3 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "11050",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ3G5",
+    "keterangan": "Vcr Happy 3,5GB All + 1GB Jabodetabek 5 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "15900",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ6G5",
+    "keterangan": "Vcr Happy 6GB All + 2GB Jabodetabek 5 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "20300",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ9G10",
+    "keterangan": "Vcr Happy 9GB All + 3GB Jabodetabek 10 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "30750",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ2G5",
+    "keterangan": "Vcr Happy 2GB All + 0,5GB Jabodetabek 5 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "11000",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ5G3",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB Jabodetabek 3 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "15550",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ3G7",
+    "keterangan": "Vcr Happy 3GB All + 1GB Jabodetabek 7 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "15975",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ5G7",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB Jabodetabek 7 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "20350",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ1G1",
+    "keterangan": "Vcr Happy 1,5GB All + 0,5GB Jabodetabek 1 Hari",
+    "produk": "Tri Voucher Happy Mini Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "4600",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ2",
+    "keterangan": "Vcr AON 2,5GB All + 0,5GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "17650",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ3",
+    "keterangan": "Vcr AON 3,5GB All + 1GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "22000",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ6",
+    "keterangan": "Vcr AON 6GB All + 2GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "30900",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ12",
+    "keterangan": "Vcr AON 12GB All + 4GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "57600",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ40",
+    "keterangan": "Vcr AON 40GB All + 12GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "106700",
+    "status": "1"
+  },
+  {
+    "kode": "VAJ9",
+    "keterangan": "Vcr AON 9GB All + 3GB Jabodetabek 365 Hari",
+    "produk": "Tri Voucher AON Jabodetabek",
+    "kategori": "KUOTA TRI",
+    "harga": "44900",
+    "status": "1"
+  },
+  {
+    "kode": "VHS5G1",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB Sumatera 1 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "10150",
+    "status": "1"
+  },
+  {
+    "kode": "VHS3G2",
+    "keterangan": "Vcr Happy 3GB All + 1GB Sumatera 2 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "11150",
+    "status": "1"
+  },
+  {
+    "kode": "VHS1G3",
+    "keterangan": "Vcr Happy 1GB All + 0,5GB Sumatera 3 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "11220",
+    "status": "1"
+  },
+  {
+    "kode": "VHS5G3",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB Sumatera 3 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "15920",
+    "status": "1"
+  },
+  {
+    "kode": "VHS2G5",
+    "keterangan": "Vcr Happy 2GB All + 0,5GB Sumatera 5 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "11400",
+    "status": "1"
+  },
+  {
+    "kode": "VHS3G5",
+    "keterangan": "Vcr Happy 3,5GB All + 1GB Sumatera 5 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "15900",
+    "status": "1"
+  },
+  {
+    "kode": "VHS6G5",
+    "keterangan": "Vcr Happy 6GB All + 2GB Sumatera 5 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "20725",
+    "status": "1"
+  },
+  {
+    "kode": "VHS3G7",
+    "keterangan": "Vcr Happy 3GB All + 1GB Sumatera 7 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "16200",
+    "status": "1"
+  },
+  {
+    "kode": "VHS5G7",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB Sumatera 7 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "20300",
+    "status": "1"
+  },
+  {
+    "kode": "VHS9G10",
+    "keterangan": "Vcr Happy 9GB All + 3GB Sumatera 10 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "30450",
+    "status": "1"
+  },
+  {
+    "kode": "VHS1G1",
+    "keterangan": "Vcr Happy 1,5GB All + 0,5GB Sumatera 1 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "4200",
+    "status": "1"
+  },
+  {
+    "kode": "VHS3G3",
+    "keterangan": "Vcr Happy 3GB All + 1GB Sumatera 3 Hari",
+    "produk": "Tri Voucher Happy Mini Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "10900",
+    "status": "1"
+  },
+  {
+    "kode": "VAS2",
+    "keterangan": "Vcr AON 2,5GB All + 0,5GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "17075",
+    "status": "1"
+  },
+  {
+    "kode": "VAS3",
+    "keterangan": "Vcr AON 3,5GB All + 1GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "22150",
+    "status": "1"
+  },
+  {
+    "kode": "VAS6",
+    "keterangan": "Vcr AON 6GB All +2GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "30450",
+    "status": "1"
+  },
+  {
+    "kode": "VAS9",
+    "keterangan": "Vcr AON 9GB All + 3GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "44800",
+    "status": "1"
+  },
+  {
+    "kode": "VAS12",
+    "keterangan": "Vcr AON 12GB All + 4GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "56900",
+    "status": "1"
+  },
+  {
+    "kode": "VAS40",
+    "keterangan": "Vcr AON 40GB All + 12GB Sumatera 365 Hari",
+    "produk": "Tri Voucher AON Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "105575",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ10G30",
+    "keterangan": "Vcr Happy 10GB All + 2GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "49900",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ14G30",
+    "keterangan": "Vcr Happy 14GB All + 4GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "59375",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ15G30",
+    "keterangan": "Vcr Happy 15GB All + 3GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "67900",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ20G30",
+    "keterangan": "Vcr Happy 20GB All + 5GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "91000",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ11G30",
+    "keterangan": "Vcr Happy 11GB All + 3GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "45750",
+    "status": "1"
+  },
+  {
+    "kode": "VHJ7G30",
+    "keterangan": "Vcr Happy 7GB All + 2GB Jabo 28 Hari",
+    "produk": "Tri Voucher Happy Jabo",
+    "kategori": "KUOTA TRI",
+    "harga": "30350",
+    "status": "1"
+  },
+  {
+    "kode": "VHC7G30",
+    "keterangan": "Vcr Happy 7GB All + 2GB CWJ 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "30120",
+    "status": "1"
+  },
+  {
+    "kode": "VHC11G30",
+    "keterangan": "Vcr Happy 11GB All + 3GB CWJ 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "45260",
+    "status": "1"
+  },
+  {
+    "kode": "VHC14G30",
+    "keterangan": "Vcr Happy 14GB All + 4GB CWJ 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "59375",
+    "status": "1"
+  },
+  {
+    "kode": "VHC18G30",
+    "keterangan": "Vcr Happy 18GB All + 6GB CWJ 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "62950",
+    "status": "1"
+  },
+  {
+    "kode": "VHC30G30",
+    "keterangan": "Vcr Happy 30GB All + 10GB CWJ 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "74450",
+    "status": "1"
+  },
+  {
+    "kode": "VHC100G30",
+    "keterangan": "Vcr Happy CWJ 100GB Nat + 100mnt/H 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "131200",
+    "status": "1"
+  },
+  {
+    "kode": "VHC130G30",
+    "keterangan": "Voc Happy CWJ 130GB Nat + 100mnt/H 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "249600",
+    "status": "1"
+  },
+  {
+    "kode": "VHC42G30",
+    "keterangan": "Vcr Happy CWJ 42GB Nat + 100mnt/Hr 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "91250",
+    "status": "1"
+  },
+  {
+    "kode": "VHC55G30",
+    "keterangan": "Vcr Happy CWJ 55GB Nat + 100mnt/Hr 28 Hari",
+    "produk": "Tri Voucher Happy CWJ",
+    "kategori": "KUOTA TRI",
+    "harga": "119800",
+    "status": "1"
+  },
+  {
+    "kode": "VHS11G30",
+    "keterangan": "Vcr Happy 11GB All + 3GB Sumatera 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "46145",
+    "status": "1"
+  },
+  {
+    "kode": "VHS14G30",
+    "keterangan": "Vcr Happy 14GB All + 4GB Sumatera 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "59200",
+    "status": "1"
+  },
+  {
+    "kode": "VHS30G30",
+    "keterangan": "Vcr Happy 30GB All + 10GB Sumatera 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "74550",
+    "status": "1"
+  },
+  {
+    "kode": "VHS18G30",
+    "keterangan": "Vcr Happy 18GB All + 6GB Sumatera 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "63400",
+    "status": "1"
+  },
+  {
+    "kode": "VHS100G30",
+    "keterangan": "Vcr Happy Sumatera 100GB All + 100mnt/H 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "195450",
+    "status": "1"
+  },
+  {
+    "kode": "VHS42G30",
+    "keterangan": "Vcr Happy Sumatera 42GB All + 100mnt/H 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "91900",
+    "status": "1"
+  },
+  {
+    "kode": "VHS55G30",
+    "keterangan": "Vcr Happy Sumatera 55GB All + 100mnt/H 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "118025",
+    "status": "1"
+  },
+  {
+    "kode": "VHS7G30",
+    "keterangan": "Vcr Happy 7GB All + 2GB Sumatera 28 Hari",
+    "produk": "Tri Voucher Happy Sumatera",
+    "kategori": "KUOTA TRI",
+    "harga": "30275",
+    "status": "0"
+  },
+  {
+    "kode": "VHE11G30",
+    "keterangan": "Vcr Happy 11GB All + 3GB EJBN 28 Hari",
+    "produk": "Tri Voucher Happy EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "46250",
+    "status": "1"
+  },
+  {
+    "kode": "VHE14G30",
+    "keterangan": "Vcr Happy 14GB All + 4GB EJBN 28 Hari",
+    "produk": "Tri Voucher Happy EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "60450",
+    "status": "1"
+  },
+  {
+    "kode": "VHE7G30",
+    "keterangan": "Vcr Happy 7GB All + 2GB EJBN 28 Hari",
+    "produk": "Tri Voucher Happy EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "30950",
+    "status": "1"
+  },
+  {
+    "kode": "VHE42G30",
+    "keterangan": "Vcr Happy EJBN 42GB Nat + 100mnt/Hr 28 Hari",
+    "produk": "Tri Voucher Happy EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "71800",
+    "status": "1"
+  },
+  {
+    "kode": "VHE2G5",
+    "keterangan": "Vcr Happy 2GB All + 0.5GB EJBN 5 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "11225",
+    "status": "1"
+  },
+  {
+    "kode": "VHE3G5",
+    "keterangan": "Vcr Happy 3,5GB All + 1GB EJBN 5 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "16050",
+    "status": "1"
+  },
+  {
+    "kode": "VHE6G5",
+    "keterangan": "Vcr Happy 6GB All + 2GB EJBN 5 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "20850",
+    "status": "1"
+  },
+  {
+    "kode": "VHE3G3",
+    "keterangan": "Vcr Happy 3GB All + 1GB EJBN 3 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "11225",
+    "status": "1"
+  },
+  {
+    "kode": "VHE5G3",
+    "keterangan": "Vcr Happy 5GB All + 1,5GB EJBN 3 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "15850",
+    "status": "1"
+  },
+  {
+    "kode": "VHE9G10",
+    "keterangan": "Vcr Happy 9GB All + 3GB EJBN 10 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "30800",
+    "status": "1"
+  },
+  {
+    "kode": "VHE3G7",
+    "keterangan": "Vcr Happy 3GB All + 1GB EJBN 7 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "16250",
+    "status": "1"
+  },
+  {
+    "kode": "VHE8G7",
+    "keterangan": "Vcr Happy 8GB All + 1GB Reg + 1,5GB EJBN 7 Hari",
+    "produk": "Tri Voucher Happy Mini EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "22150",
+    "status": "1"
+  },
+  {
+    "kode": "VAE2",
+    "keterangan": "Vcr AON 2,5GB All + 0,5GB EJBN 365 Hari",
+    "produk": "Tri Voucher AON EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "17950",
+    "status": "1"
+  },
+  {
+    "kode": "VAE6",
+    "keterangan": "Vcr AON 6GB All + 2GB EJBN 365 Hari",
+    "produk": "Tri Voucher AON EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "31300",
+    "status": "1"
+  },
+  {
+    "kode": "VAE9",
+    "keterangan": "Vcr AON 9GB All + 3GB EJBN 365 Hari",
+    "produk": "Tri Voucher AON EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "45200",
+    "status": "1"
+  },
+  {
+    "kode": "VAE12",
+    "keterangan": "Vcr AON 12GB All + 4GB EJBN 365 Hari",
+    "produk": "Tri Voucher AON EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "58150",
+    "status": "1"
+  },
+  {
+    "kode": "VAE3",
+    "keterangan": "Vcr AON 3,5GB All + 1GB EJBN 365 Hari",
+    "produk": "Tri Voucher AON EJBN",
+    "kategori": "KUOTA TRI",
+    "harga": "22350",
+    "status": "1"
+  },
+  {
+    "kode": "DHT7",
+    "keterangan": "Data Harian 7GB 7 Hari  (1GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "18599",
+    "status": "1"
+  },
+  {
+    "kode": "DHT14",
+    "keterangan": "Data Harian 14GB 7 Hari (2GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "27899",
+    "status": "1"
+  },
+  {
+    "kode": "DHT35",
+    "keterangan": "Data Harian 35GB 7 Hari (5GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "51111",
+    "status": "1"
+  },
+  {
+    "kode": "DHT30",
+    "keterangan": "Data Harian 30GB 30 Hari (1GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "61300",
+    "status": "1"
+  },
+  {
+    "kode": "DHT60",
+    "keterangan": "Data Harian 60GB 30 Hari (2GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "94800",
+    "status": "1"
+  },
+  {
+    "kode": "DHT150",
+    "keterangan": "Data Harian 150GB 30 Hari (5GB/Hari)",
+    "produk": "Tri Data Harian",
+    "kategori": "KUOTA TRI",
+    "harga": "143000",
+    "status": "1"
+  }
+]

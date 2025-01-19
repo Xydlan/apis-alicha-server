@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ALICHA REST API</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <link rel="stylesheet" href="../style/fitur.css">
+</head>
+<body>
+<div id="particles-js"></div>
+
+<header>
+  <h1><i class="fas fa-fire"></i>ALICHA REST API</h1>
+  <div class="icons">
+    <i class="fas fa-bars" id="menuToggle"></i>
+  </div>
+</header>
+<div class="sidebar" id="sidebar">
+  <h2><i class="fas fa-info-circle"></i> INFO DEVELOPER</h2>
+  <ul>
+    <a href="https://t.me/alichaofficial">
+      <li><i class="fas fa-phone"></i> Contat Me</li>
+    </a>
+    <a href="https://chat.whatsapp.com/IkOG3wuV8swDsMqxmHVEik">
+      <li><i class="fas fa-users"></i> Group WhatsApp</li>
+    </a>
+    <a href="https://whatsapp.com/channel/0029VaxdW8SL2ATwTdA6Ty1d">
+      <li><i class="fas fa-users"></i> Channel WhatsApp</li>
+    </a>
+    <a href="https://youtube.com/@alichaicha_id">
+      <li><i class="fab fa-youtube"></i> Channel YouTube</li>
+    </a>
+    <a href="https://github.com/alichadevv">
+      <li><i class="fab fa-github"></i> Github Me</li>
+    </a>
+  </ul>
+</div>
+
+<section>
+  <div class="card">
+    <div class="icon request"><i class="fas fa-server"></i></div>
+    <div>
+      <h2>WEB INFORMATION</h2>
+      <p>Pengunjung 1 Jam Terakhir: <span id="visitorCount">Loading...</span></p>
+      <p>Hari Ini: <span id="dateTime">Loading...</span></p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="icon request"><i class="fas fa-user"></i></div>
+    <div>
+      <h2>USER INFORMATION</h2>
+      <p>IP Address: <span id="visitorIP">Loading...</span></p>
+      <p>Kecepatan Jaringan: <span id="networkSpeed">Menghitung...</span></p>
+      <p>Baterai: <span id="batteryStatus">Loading...</span></p>
+    </div>
+  </div>
+</section>
+
+<div class="docapi">
+    <h1>DOKUMENTASI API OKECONNECT</h1>
+
+    <div class="apis">
+      <div class="apis-header">
+        <p>API OKECONNEC DANA</p>
+        <a class="toggle-btn"><i class="fas fa-chevron-down"></i></a>
+      </div>
+      <div class="toggle-content">
+        <p>API OKECONNEC DANA</p>
+        <div class="button-wrapper">
+          <button onclick="openLink('../api/okeconnect/dana.json')" class="social-button">
+            Open API&nbsp;<i class="fas fa-fire"></i>
+          </button>
+          <button onclick="openLink('https://youtube.com/@alichaicha_id')" class="social-button">
+            YouTube Channel&nbsp;<i class="fab fa-youtube"></i>
+          </button>
+        </div>
+        <div class="copy-container">
+          <textarea id="textarea1" readonly>https://apis-alicha-server.netlify.app/api/okeconnect/dana</textarea>
+          <i class="fas fa-copy copy-icon" onclick="copyToClipboard('textarea1')"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="apis">
+      <div class="apis-header">
+        <p>API OKECONNEC OVO</p>
+        <a class="toggle-btn"><i class="fas fa-chevron-down"></i></a>
+      </div>
+      <div class="toggle-content">
+        <p>API OKECONNEC OVO</p>
+        <div class="button-wrapper">
+          <button onclick="openLink('../api/okeconnect/ovo.json')" class="social-button">
+            Open API&nbsp;<i class="fas fa-fire"></i>
+          </button>
+          <button onclick="openLink('https://youtube.com/@alichaicha_id')" class="social-button">
+            YouTube Channel&nbsp;<i class="fab fa-youtube"></i>
+          </button>
+        </div>
+        <div class="copy-container">
+          <textarea id="textarea1" readonly>https://apis-alicha-server.netlify.app/api/okeconnect/ovo</textarea>
+          <i class="fas fa-copy copy-icon" onclick="copyToClipboard('textarea1')"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="apis">
+      <div class="apis-header">
+        <p>API OKECONNEC KUOTA TREE</p>
+        <a class="toggle-btn"><i class="fas fa-chevron-down"></i></a>
+      </div>
+      <div class="toggle-content">
+        <p>API OKECONNEC KUOTA TREE</p>
+        <div class="button-wrapper">
+          <button onclick="openLink('../api/okeconnect/kuota-tree.json')" class="social-button">
+            Open API&nbsp;<i class="fas fa-fire"></i>
+          </button>
+          <button onclick="openLink('https://youtube.com/@alichaicha_id')" class="social-button">
+            YouTube Channel&nbsp;<i class="fab fa-youtube"></i>
+          </button>
+        </div>
+        <div class="copy-container">
+          <textarea id="textarea1" readonly>https://apis-alicha-server.netlify.app/api/okeconnect/kuota-tree</textarea>
+          <i class="fas fa-copy copy-icon" onclick="copyToClipboard('textarea1')"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="apis">
+      <div class="apis-header">
+        <p>API OKECONNEC CREATE PAYMENT</p>
+        <a class="toggle-btn"><i class="fas fa-chevron-down"></i></a>
+      </div>
+      <div class="toggle-content">
+        <p>API OKECONNEC CREATE PAYMENT</p>
+        <div class="button-wrapper">
+          <button onclick="openLink('../api/orkut/createpayment2d1f.json')" class="social-button">
+            Open API&nbsp;<i class="fas fa-fire"></i>
+          </button>
+          <button onclick="openLink('https://youtube.com/@alichaicha_id')" class="social-button">
+            YouTube Channel&nbsp;<i class="fab fa-youtube"></i>
+          </button>
+        </div>
+        <div class="copy-container">
+          <textarea id="textarea1" readonly>https://apis-alicha-server.netlify.app/api/orkut/createpayment?amount=${amount}&codeqr=${global.qrcode}</textarea>
+          <i class="fas fa-copy copy-icon" onclick="copyToClipboard('textarea1')"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="apis">
+      <div class="apis-header">
+        <p>API OKECONNEC CEK STATUS</p>
+        <a class="toggle-btn"><i class="fas fa-chevron-down"></i></a>
+      </div>
+      <div class="toggle-content">
+        <p>API OKECONNEC CEK STATUS</p>
+        <div class="button-wrapper">
+          <button onclick="openLink('../api/orkut/cekstatus788d.json')" class="social-button">
+            Open API&nbsp;<i class="fas fa-fire"></i>
+          </button>
+          <button onclick="openLink('https://youtube.com/@alichaicha_id')" class="social-button">
+            YouTube Channel&nbsp;<i class="fab fa-youtube"></i>
+          </button>
+        </div>
+        <div class="copy-container">
+          <textarea id="textarea1" readonly>https://apis-alicha-server.netlify.app/api/orkut/cekstatus?merchant=${global.merchant}&keyorkut=${global.keyorkut}</textarea>
+          <i class="fas fa-copy copy-icon" onclick="copyToClipboard('textarea1')"></i>
+        </div>
+      </div>
+    </div>
+  
+      </div>
+    </div>
+
+<div class="overlay" id="overlay"></div>
+  
+  <script src="../style/sc"></script>
+</body>
+</html>
